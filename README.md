@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=lingayapallyjoel07&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
 
 <h1 align="center">
@@ -89,9 +89,9 @@ AIML Student • Aspiring Technologist • Passionate Learner
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lingayapallyjoel07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingayapallyjoel07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -101,7 +101,7 @@ AIML Student • Aspiring Technologist • Passionate Learner
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lingayapallyjoel07&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -111,7 +111,7 @@ AIML Student • Aspiring Technologist • Passionate Learner
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lingayapallyjoel07&theme=tokyo-night"/>
 
 </p>
 
@@ -121,7 +121,7 @@ AIML Student • Aspiring Technologist • Passionate Learner
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lingayapallyjoel07&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
 </p>
 
@@ -131,7 +131,7 @@ AIML Student • Aspiring Technologist • Passionate Learner
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/lingayapallyjoel07/lingayapallyjoel07/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </p>
 
