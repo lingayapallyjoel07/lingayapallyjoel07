@@ -34,7 +34,8 @@
 <!-- ============ SKILL ICONS ============ -->
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,opencv,r,mysql,git,github,vscode,linux,docker,aws,html,css,js&theme=dark" />
+<!-- List your own tools using skillicons.dev, e.g.:
+<img src="https://skillicons.dev/icons?i=py,git,github&theme=dark" /> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%">
