@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:2563EB&text=JOEL&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:2563EB&text=LINGAYAPALLY%20JOEL&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">
 Hi 👋, I'm Joel
